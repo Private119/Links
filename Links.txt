@@ -1,0 +1,27 @@
+{
+  "1a5a09914bc8fa046f657fa6f1ef041b": {
+    "Name": "Jump Script",
+    "Script": "game.Players.LocalPlayer.Character.Humanoid.Jump = true",
+    "Date": "January 26 2025"
+  },
+  "e83ed4a7271acf0229217526329527a0": {
+    "Name": "Destroy Head",
+    "Script": "game.Players.LocalPlayer.Character.Head:Destroy()",
+    "Date": "January 26 2025"
+  },
+  "b079081b560167c06ce3bce7c69d90b6": {
+    "Name": "Ghost Hub Add Script",
+    "Script": "loadstring(game:HttpGet('https://raw.githubusercontent.com/Proximity352/MainScripts/refs/heads/main/Ghost%20Hub%20Add%20Script'))()",
+    "Date": "January 26 2025"
+  },
+  "e80c0c40e2deca8c405f3061186c6484": {
+    "Name": "Ghost Hub",
+    "Script": "loadstring(game:HttpGet('https://raw.githubusercontent.com/Proximity352/MainScripts/refs/heads/main/Ghost%20Hub'))()",
+    "Date": "January 27 2025"
+  },
+  "9645c28a67e031371e4ca2e02f4f3b09": {
+    "Name": "Words or Die",
+    "Script": "loadstring(game:HttpGet('https://raw.githubusercontent.com/Proximity352/MainScripts/refs/heads/main/Words%20or%20Die'))()",
+    "Date": "January 27 2025"
+  }
+}
