@@ -11,17 +11,17 @@
   },
   "b079081b560167c06ce3bce7c69d90b6": {
     "Name": "Ghost Hub Add Script",
-    "Script": "loadstring(game:HttpGet('https://raw.githubusercontent.com/Proximity352/MainScripts/refs/heads/main/Ghost%20Hub%20Add%20Script'))()",
+    "Script": "loadstring(game:HttpGet('https://raw.githubusercontent.com/Private119/MainScripts/refs/heads/main/Ghost%20Hub%20Add%20Script.txt'))()",
     "Date": "January 26 2025"
   },
   "e80c0c40e2deca8c405f3061186c6484": {
     "Name": "Ghost Hub",
-    "Script": "loadstring(game:HttpGet('https://raw.githubusercontent.com/Proximity352/MainScripts/refs/heads/main/Ghost%20Hub'))()",
+    "Script": "loadstring(game:HttpGet('https://raw.githubusercontent.com/Private119/MainScripts/refs/heads/main/Ghost%20Hub.txt'))()",
     "Date": "January 27 2025"
   },
   "9645c28a67e031371e4ca2e02f4f3b09": {
     "Name": "Words or Die",
-    "Script": "loadstring(game:HttpGet('https://raw.githubusercontent.com/Proximity352/MainScripts/refs/heads/main/Words%20or%20Die'))()",
+    "Script": "loadstring(game:HttpGet('https://raw.githubusercontent.com/Private119/MainScripts/refs/heads/main/Words%20or%20Die.txt'))()",
     "Date": "January 27 2025"
   }
 }
