@@ -26,7 +26,7 @@
   },
   "19fd367930a6d18d7b225a8b9a446ac1": {
     "Name": "Guess The Drawing",
-    "Script": "loadstring(game:HttpGet('https://raw.githubusercontent.com/Private119/MainScripts/refs/heads/main/Guess%20The%20Drawing'))()"",
+    "Script": "loadstring(game:HttpGet('https://raw.githubusercontent.com/Private119/MainScripts/refs/heads/main/Guess%20The%20Drawing'))()",
     "Date": "January 29 2025"
   },
   "63b601e50bdeb99ad0b9fe75aed7f1f3": {
