@@ -28,5 +28,10 @@
     "Name": "Guess The Drawing",
     "Script": "loadstring(game:HttpGet('https://raw.githubusercontent.com/Private119/MainScripts/refs/heads/main/Guess%20The%20Drawing'))()"",
     "Date": "January 29 2025"
+  },
+  "63b601e50bdeb99ad0b9fe75aed7f1f3": {
+    "Name": "Math Answer or Die",
+    "Script": "loadstring(game:HttpGet('https://raw.githubusercontent.com/Private119/MainScripts/refs/heads/main/Math%20Answer%20or%20Die'))()",
+    "Date": "January 29 2025"
   }
 }
