@@ -33,5 +33,10 @@
     "Name": "Math Answer or Die",
     "Script": "loadstring(game:HttpGet('https://raw.githubusercontent.com/Private119/MainScripts/refs/heads/main/Math%20Answer%20or%20Die'))()",
     "Date": "January 29 2025"
+  },
+  "bee8432b10b76727a88e5815452851eb": {
+    "Name": "Math Murder",
+    "Script": "loadstring(game:HttpGet('https://raw.githubusercontent.com/Private119/MainScripts/refs/heads/main/Math%20Murder'))()",
+    "Date": "Feb 2 2025"
   }
 }
