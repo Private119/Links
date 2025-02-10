@@ -43,5 +43,10 @@
     "Name": "Jack Of Hearts",
     "Script": "loadstring(game:HttpGet('https://raw.githubusercontent.com/Private119/MainScripts/refs/heads/main/Jack%20Of%20Hearts'))()",
     "Date": "February 9 2025"
+  },
+  "920b7aa3d98882b4062dcf5e84cd73c7": {
+    "Name": "Dodgeball Legends",
+    "Script": "loadstring(game:HttpGet('https://raw.githubusercontent.com/Private119/MainScripts/refs/heads/main/Dodgeball%20Legends'))()",
+    "Date": "February 10 2025"
   }
 }
