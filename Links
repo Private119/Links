@@ -48,5 +48,10 @@
     "Name": "Dodgeball Legends",
     "Script": "loadstring(game:HttpGet('https://raw.githubusercontent.com/Private119/MainScripts/refs/heads/main/Dodgeball%20Legends'))()",
     "Date": "February 10 2025"
+  },
+  "75ca7d5f2f5974cfed8ece96cf582dac": {
+    "Name": "Murder Mystery",
+    "Script": "loadstring(game:HttpGet('https://raw.githubusercontent.com/Private119/MainScripts/refs/heads/main/Murder%20Mystery'))()",
+    "Date": "March 7 2025"
   }
 }
