@@ -93,5 +93,10 @@
     "Name": "Players Inspector",
     "Script": "loadstring(game:HttpGet('https://raw.githubusercontent.com/Private119/MainScripts/refs/heads/main/Players%20Inspector'))()",
     "Date": "March 9 2025"
+  },
+  "355dd08adc07dcc80ac398618d7fa525": {
+    "Name": "Math Boxing",
+    "Script": "loadstring(game:HttpGet('https://raw.githubusercontent.com/Private119/MainScripts/refs/heads/main/Math%20Boxing'))()",
+    "Date": "March 9 2025"
   }
 }
