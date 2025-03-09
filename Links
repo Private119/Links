@@ -85,8 +85,13 @@
     "Date": "March 9 2025"
   },
   "88e91557e59e811777971cf29c9766f5": {
-    "Name": "Ambient Guu",
+    "Name": "Ambient Gui",
     "Script": "loadstring(game:HttpGet('https://raw.githubusercontent.com/Private119/MainScripts/refs/heads/main/Ambient%20Gui'))()",
+    "Date": "March 9 2025"
+  },
+  "c1551053fcd10e6b625a3ea54e236f25": {
+    "Name": "Players Inspector",
+    "Script": "loadstring(game:HttpGet('https://raw.githubusercontent.com/Private119/MainScripts/refs/heads/main/Players%20Inspector'))()",
     "Date": "March 9 2025"
   }
 }
