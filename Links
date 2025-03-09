@@ -98,5 +98,10 @@
     "Name": "Math Boxing",
     "Script": "loadstring(game:HttpGet('https://raw.githubusercontent.com/Private119/MainScripts/refs/heads/main/Math%20Boxing'))()",
     "Date": "March 9 2025"
+  },
+  "6abc8c09bf8fdf096f4a1ed90ba1867b": {
+    "Name": "Save Server",
+    "Script": "loadstring(game:HttpGet('https://raw.githubusercontent.com/Private119/MainScripts/refs/heads/main/Save%20Server'))()",
+    "Date": "March 9 2025"
   }
 }
