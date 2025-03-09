@@ -148,5 +148,10 @@
     "Name": "Face Changer Gui",
     "Script": "loadstring(game:HttpGet('https://raw.githubusercontent.com/Private119/MainScripts/refs/heads/main/Face%20Changer%20Gui'))()",
     "Date": "March 9 2025"
+  },
+  "583e3bd54554f2bfdcd007a49fa6b035": {
+    "Name": "Part Gui",
+    "Script": "loadstring(game:HttpGet('https://raw.githubusercontent.com/Private119/MainScripts/refs/heads/main/Part%20Gui'))()",
+    "Date": "March 9 2025"
   }
 }
