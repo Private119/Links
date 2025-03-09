@@ -68,5 +68,10 @@
     "Name": "Chat Font Gui",
     "Script": "loadstring(game:HttpGet('https://raw.githubusercontent.com/Private119/MainScripts/refs/heads/main/Chat%20Font%20Gui'))()",
     "Date": "March 9 2025"
+  },
+  "5d75bcd69db1fd272d7dc7011d9211fe": {
+    "Name": "Clothes Stealer",
+    "Script": "loadstring(game:HttpGet('https://raw.githubusercontent.com/Private119/MainScripts/refs/heads/main/Clothes%20Stealer'))()",
+    "Date": "March 9 2025"
   }
 }
