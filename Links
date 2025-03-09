@@ -58,5 +58,10 @@
     "Name": "Fe Animation Gui",
     "Script": "loadstring(game:HttpGet('https://raw.githubusercontent.com/Private119/MainScripts/refs/heads/main/Fe%20Animation%20Gui'))()",
     "Date": "March 9 2025"
+  },
+  "35487fdd8d70227a1537e4dfa2d21e5c": {
+    "Name": "Fall Gui",
+    "Script": "loadstring(game:HttpGet('https://raw.githubusercontent.com/Private119/MainScripts/refs/heads/main/Fall%20Gui'))()",
+    "Date": "March 9 2025"
   }
 }
