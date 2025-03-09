@@ -63,5 +63,10 @@
     "Name": "Fall Gui",
     "Script": "loadstring(game:HttpGet('https://raw.githubusercontent.com/Private119/MainScripts/refs/heads/main/Fall%20Gui'))()",
     "Date": "March 9 2025"
+  },
+  "9145e2546148d6e154f7e57af5917b66": {
+    "Name": "Chat Font Gui",
+    "Script": "loadstring(game:HttpGet('https://raw.githubusercontent.com/Private119/MainScripts/refs/heads/main/Chat%20Font%20Gui'))()",
+    "Date": "March 9 2025"
   }
 }
