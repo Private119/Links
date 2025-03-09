@@ -108,5 +108,10 @@
     "Name": "Avatar Outfit Changer",
     "Script": "loadstring(game:HttpGet('https://raw.githubusercontent.com/Private119/MainScripts/refs/heads/main/Avatar%20Outfit%20Changer'))()",
     "Date": "March 9 2025"
+  },
+  "494875576069d0fe74e7b17337a1acdf": {
+    "Name": "Save Emotes Gui",
+    "Script": "loadstring(game:HttpGet('https://raw.githubusercontent.com/Private119/MainScripts/refs/heads/main/Save%20Emotes%20Gui'))()",
+    "Date": "March 9 2025"
   }
 }
