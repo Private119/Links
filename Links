@@ -128,5 +128,10 @@
     "Name": "Doors But Math",
     "Script": "loadstring(game:HttpGet('https://raw.githubusercontent.com/Private119/MainScripts/refs/heads/main/Doors%20But%20Math'))()",
     "Date": "March 9 2025"
+  },
+  "e8cfe1ed5b528a1452da3fe3dac5ff68": {
+    "Name": "Color Block Clash",
+    "Script": "loadstring(game:HttpGet('https://raw.githubusercontent.com/Private119/MainScripts/refs/heads/main/Color%20Block%20Clash'))()",
+    "Date": "March 9 2025"
   }
 }
