@@ -78,5 +78,10 @@
     "Name": "Guess The Maths",
     "Script": "loadstring(game:HttpGet('https://raw.githubusercontent.com/Private119/MainScripts/refs/heads/main/Guess%20The%20Maths'))()",
     "Date": "March 9 2025"
+  },
+  "e402fbc440ab9de9698b84cd57e1e50d": {
+    "Name": "Change Players",
+    "Script": "loadstring(game:HttpGet('https://raw.githubusercontent.com/Private119/MainScripts/refs/heads/main/Change%20Players'))()",
+    "Date": "March 9 2025"
   }
 }
