@@ -118,5 +118,10 @@
     "Name": "Spectator",
     "Script": "loadstring(game:HttpGet('https://raw.githubusercontent.com/Private119/MainScripts/refs/heads/main/Spectator'))()",
     "Date": "March 9 2025"
+  },
+  "b1b0f7ee287d973b18881eb1167dd57a": {
+    "Name": "Script Obfuscator Gui",
+    "Script": "loadstring(game:HttpGet('https://raw.githubusercontent.com/Private119/MainScripts/refs/heads/main/Script%20Obfuscator%20Gui'))()",
+    "Date": "March 9 2025"
   }
 }
