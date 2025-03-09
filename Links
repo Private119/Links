@@ -133,5 +133,10 @@
     "Name": "Color Block Clash",
     "Script": "loadstring(game:HttpGet('https://raw.githubusercontent.com/Private119/MainScripts/refs/heads/main/Color%20Block%20Clash'))()",
     "Date": "March 9 2025"
+  },
+  "aff72ef0e164989d4948bf75f3b8238d": {
+    "Name": "Gem Connect",
+    "Script": "loadstring(game:HttpGet('https://raw.githubusercontent.com/Private119/MainScripts/refs/heads/main/Gem%20Connect'))()",
+    "Date": "March 9 2025"
   }
 }
