@@ -73,5 +73,10 @@
     "Name": "Clothes Stealer",
     "Script": "loadstring(game:HttpGet('https://raw.githubusercontent.com/Private119/MainScripts/refs/heads/main/Clothes%20Stealer'))()",
     "Date": "March 9 2025"
+  },
+  "f2e7472ea84635b235d1e3f61a68f6bb": {
+    "Name": "Guess The Maths",
+    "Script": "loadstring(game:HttpGet('https://raw.githubusercontent.com/Private119/MainScripts/refs/heads/main/Guess%20The%20Maths'))()",
+    "Date": "March 9 2025"
   }
 }
