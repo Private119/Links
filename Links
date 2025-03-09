@@ -103,5 +103,10 @@
     "Name": "Save Server",
     "Script": "loadstring(game:HttpGet('https://raw.githubusercontent.com/Private119/MainScripts/refs/heads/main/Save%20Server'))()",
     "Date": "March 9 2025"
+  },
+  "798d0bffa1239975b4740512fef38f6f": {
+    "Name": "Avatar Outfit Changer",
+    "Script": "loadstring(game:HttpGet('https://raw.githubusercontent.com/Private119/MainScripts/refs/heads/main/Avatar%20Outfit%20Changer'))()",
+    "Date": "March 9 2025"
   }
 }
