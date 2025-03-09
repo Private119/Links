@@ -123,5 +123,10 @@
     "Name": "Script Obfuscator Gui",
     "Script": "loadstring(game:HttpGet('https://raw.githubusercontent.com/Private119/MainScripts/refs/heads/main/Script%20Obfuscator%20Gui'))()",
     "Date": "March 9 2025"
+  },
+  "482dcb6ae7052175f6a975fe63910abe": {
+    "Name": "Doors But Math",
+    "Script": "loadstring(game:HttpGet('https://raw.githubusercontent.com/Private119/MainScripts/refs/heads/main/Doors%20But%20Math'))()",
+    "Date": "March 9 2025"
   }
 }
