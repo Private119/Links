@@ -113,5 +113,10 @@
     "Name": "Save Emotes Gui",
     "Script": "loadstring(game:HttpGet('https://raw.githubusercontent.com/Private119/MainScripts/refs/heads/main/Save%20Emotes%20Gui'))()",
     "Date": "March 9 2025"
+  },
+  "38721bd8d7c0aa7e0e6999ae0c2cc98d": {
+    "Name": "Spectator",
+    "Script": "loadstring(game:HttpGet('https://raw.githubusercontent.com/Private119/MainScripts/refs/heads/main/Spectator'))()",
+    "Date": "March 9 2025"
   }
 }
