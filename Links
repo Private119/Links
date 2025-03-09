@@ -53,5 +53,10 @@
     "Name": "Murder Mystery",
     "Script": "loadstring(game:HttpGet('https://raw.githubusercontent.com/Private119/MainScripts/refs/heads/main/Murder%20Mystery'))()",
     "Date": "March 7 2025"
+  },
+  "0535e418dc1e7c5ea80520b2567d0489": {
+    "Name": "Fe Animation Gui",
+    "Script": "loadstring(game:HttpGet('https://raw.githubusercontent.com/Private119/MainScripts/refs/heads/main/Fe%20Animation%20Gui'))()",
+    "Date": "March 9 2025"
   }
 }
