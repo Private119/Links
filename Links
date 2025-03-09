@@ -143,5 +143,10 @@
     "Name": "Letter Scramble",
     "Script": "loadstring(game:HttpGet('https://raw.githubusercontent.com/Private119/MainScripts/refs/heads/main/Letter%20Scramble'))()",
     "Date": "March 9 2025"
+  },
+  "d3443da81f7986c35330b168569030b4": {
+    "Name": "Face Changer Gui",
+    "Script": "loadstring(game:HttpGet('https://raw.githubusercontent.com/Private119/MainScripts/refs/heads/main/Face%20Changer%20Gui'))()",
+    "Date": "March 9 2025"
   }
 }
